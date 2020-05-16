@@ -1,4 +1,11 @@
 {
-    "title" : "first",
-    "body" : "this is body", 
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to my api"
+    }
+  ],
+  "profile": {
+    "name": "bhargab"
+  }
 }
